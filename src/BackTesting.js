@@ -256,7 +256,7 @@ class BackTesting extends Component{
                                                     disabled={this.state.buy_ads_timeSpan!==""?true:false}
                                                     onChange={this.handleChangeBuyAdsEndDate} />
                                         </div>
-                                    </div> */}
+                                    </div> */ }
 
                                     <h6 className="pt-0 col-12 mb-0 py-1 mt-2">Parameters</h6> 
                                     <div class="form-group col-6 m-0 px-3">
